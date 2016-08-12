@@ -1,2 +1,2 @@
 # available
-Small CLI application from book Go Programming Blueprints
+Small CLI application to query a WHOIS server from book [Go Programming Blueprints](https://github.com/JakeBjorke/coolify)
